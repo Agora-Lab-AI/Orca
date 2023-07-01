@@ -179,17 +179,6 @@ Join us on this exciting journey to create a powerful, efficient, and intelligen
 
 ## Todo:
 
-* [Integrate Token Monster ](https://github.com/alasdairforsythe/tokenmonster)
+* Pretrain
 
-* Establish 200k instruction sample long for Tool API Calls
-
-* [Train on Gorilla Dataset](https://github.com/ShishirPatil/gorilla)
-
-* Establish FineTuning scripts using quantization + 4bit precision, + other tactics like LoRA
-
-* Establish Reinforcement Scripts to train on rewards from Human and Agent feedback
-
-
-
-
-
+* [Finetune on this](https://huggingface.co/datasets/Open-Orca/OpenOrca)
